@@ -10,3 +10,29 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+.idea
+bin
+dependency-reduced-pom.xml
+target
+*.DS_Store
+*.iml
+*.ipr
+*.iws
+*.pyc
+*.swp
+*.xcuserdatad
+*.xcuserstate
+*.bak
+
+test-output
+
+# rebel
+rebel.xml
+
+# eclipse
+.settings
+.project
+.classpath
+
+*~
